@@ -47,6 +47,12 @@ body{
 	margin: 0 auto;
 }
 
+.lista-beneficios{
+	width: 40%;
+	display: inline-block;
+	vertical-align: top;
+}
+
 .imagembeneficios {
 	width: 60%;
 }
