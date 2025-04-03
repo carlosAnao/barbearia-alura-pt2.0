@@ -15,6 +15,13 @@ body{
 	clear: left;
 }
 
+.principal{
+	padding: 3em 0;
+	background: #ffffff;
+	width: 940px;
+	margin: 0 auto;
+}
+
 .principal p{
 	margin: 0 0 1em;
 }
@@ -67,6 +74,7 @@ body{
 
 .mapa{
 	padding: 3cm 0;
+	background: linear-gradient(#fefefe, #888888);
 }
 
 .mapa p {
