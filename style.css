@@ -37,17 +37,22 @@ body{
 	margin: 0 20px 20px ;
 }
 
+.beneficios{
+	padding: 3cm 0;
+	background: #888888;
+}
+
+.conteudo-beneficios{
+	width: 640px;
+	margin: 0 auto;
+}
+
 .imagembeneficios {
 	width: 60%;
 }
 
 .itens {
 	font-style: italic
-}
-
-.beneficios {
-	background: #FFFFFF;
-	padding: 20px;
 }
 
 .mapa{
